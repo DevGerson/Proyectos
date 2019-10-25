@@ -1,0 +1,12 @@
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\bin\Debug\PrestacionesLaborales.exe.config
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\bin\Debug\PrestacionesLaborales.exe
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\bin\Debug\PrestacionesLaborales.pdb
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.csprojAssemblyReference.cache
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.Form1.resources
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.Properties.Resources.resources
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.csproj.GenerateResource.cache
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.csproj.CopyComplete
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.exe
+C:\Users\gerso\Desktop\CURSO DE C#\PrestacionesLaborales\PrestacionesLaborales\obj\Debug\PrestacionesLaborales.pdb

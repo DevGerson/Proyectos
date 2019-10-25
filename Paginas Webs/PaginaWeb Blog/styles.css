@@ -1,0 +1,94 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #333333;
+    line-height: 1.2rem;
+    margin: 0;
+}
+
+p {
+    margin-bottom: 1.5em
+}
+
+.container {
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+h1 {
+    line-height: 1.2em;
+
+}
+
+.header {
+    background: #333333;
+    color: white;
+    padding: 2rem 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo-ct {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    letter-spacing: 5px;
+    font-size: 1.4em;
+}
+
+.nav-class ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-class ul li {
+    display: inline-block;
+}
+
+.nav-class ul li a {
+    display: block;
+    padding: 0.4rem 1rem;
+    transition: all 0.4s linear;
+}
+
+.nav-class ul li a:hover {
+    background: #666060;
+}
+
+.footer {
+    background: #d4d4d4;
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px;
+    height: 100px;
+}
+
+.main {
+    padding: 9rem;
+}
+
+.links {
+    text-decoration: none;
+    font-size: 20px;
+    margin: 15px 5px 5px 15px;
+}
+
+.about {
+    padding: 0;
+    height: auto;
+    margin: 0 0 10px 0;
+}

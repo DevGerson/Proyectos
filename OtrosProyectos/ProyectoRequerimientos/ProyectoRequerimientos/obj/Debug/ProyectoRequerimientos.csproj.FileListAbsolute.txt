@@ -1,0 +1,14 @@
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\bin\Debug\ProyectoRequerimientos.exe.config
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\bin\Debug\ProyectoRequerimientos.exe
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\bin\Debug\ProyectoRequerimientos.pdb
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.csprojAssemblyReference.cache
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.Form1.resources
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.Properties.Resources.resources
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.csproj.GenerateResource.cache
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.csproj.CoreCompileInputs.cache
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.exe
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.pdb
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.csproj.CopyComplete
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\obj\Debug\ProyectoRequerimientos.CargarDatos.resources
+C:\Users\gerso\Desktop\CURSO DE C#\ProyectoRequerimientos\ProyectoRequerimientos\bin\Debug\XanderUI.dll

@@ -1,0 +1,218 @@
+/* Contenedores Principales */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#ContenedorGlobal {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Parte superior - Navegacion */
+
+#header {
+    background: white;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+#logo {
+    margin-left: 10px;
+    margin-top: 10px;
+    background: transparent;
+    width: 50%;
+}
+
+#logo h1 {
+    background: transparent;
+    color: rgb(84, 0, 87);
+}
+
+#Navbar {
+    margin-right: 10px;
+    margin-top: 10px;
+    background: transparent;
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#MenuPrincipal {
+    background: transparent;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.MenuItems {
+    background: transparent;
+    display: inline-block;
+    color: rgb(84, 0, 87);
+    transition: all 0.3s;
+}
+
+#Navbar #MenuPrincipal .MenuItems .Items:hover {
+    background: rgb(84, 0, 87);
+    color: white;
+}
+
+.Items {
+    color: black;
+    background: transparent;
+    display: block;
+    text-decoration: none;
+    padding: 7px;
+    margin: 0;
+    margin-left: 10px;
+}
+
+/* Slider */
+
+#Slider {
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+
+.slider1 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider1 h2 {
+    font-size: 50px;
+}
+
+.slider1 a {
+    padding: 10px 20px 10px 20px;
+    background: rgb(84, 0, 87);
+    color: white;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.slider1 a:hover {
+    background: white;
+    color: rgb(84, 0, 87);
+    border: 2px solid rgb(84, 0, 87);
+}
+
+.slider2 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ImgSliders {
+    width: 400px;
+    height: 400px;
+}
+
+/*  Section o Articulos de Compras  */
+#TituloProductos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+
+#secciones {
+    width: 85%;
+    margin: 0 auto;
+    height: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+#articulo {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    height: 300px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 14px -6px rgba(0, 0, 0, 0.75);
+}
+
+.ImgProductos {
+    width: 200px;
+    height: 150px;
+}
+
+.descripcion .titulo {
+    font-size: 20px;
+
+}
+
+.parrafo {
+    text-align: justify;
+    margin-right: 8px;
+}
+
+#secciones a {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+    border: 2px solid rgb(84, 0, 87);
+    color: rgb(84, 0, 87);
+}
+
+#secciones a:hover {
+    background: rgb(84, 0, 87);
+    color: white;
+}
+
+.footer {
+    margin-top: 0px;
+    height: 100px;
+}
+
+#paginasMenu {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lisPaginas {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lisPaginas li {
+    list-style: none;
+    display: inline-block;
+}
+
+.lisPaginas a {
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-left: 5px;
+    border: 2px solid rgb(84, 0, 87);
+    color: rgb(84, 0, 87);
+}
+
+.lisPaginas a:hover {
+    background: rgb(84, 0, 87);
+    color: white;
+}
